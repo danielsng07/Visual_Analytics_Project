@@ -1,0 +1,15 @@
+---
+title: "Singapore Public Housing Market Watch"
+description: |
+  ISSS608 Visual Analytic Project - G2 (Group7)
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+

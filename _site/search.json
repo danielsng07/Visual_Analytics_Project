@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Proposal",
+      "description": "Background and Project Scope, objectives and Methodology",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-01T17:30:22+08:00"
+    },
+    {
+      "path": "application.html",
+      "title": "Application",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-01T17:30:24+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Singapore Public Housing Market Watch",
+      "description": "ISSS608 Visual Analytic Project - G2 (Group7)\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-01T17:30:25+08:00"
+    },
+    {
+      "path": "poster.html",
+      "title": "Poster",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-01T17:30:26+08:00"
+    },
+    {
+      "path": "proposal.html",
+      "title": "Proposal",
+      "description": "Background and Project Scope, objectives and Methodology",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-08-01T17:30:27+08:00"
+    }
+  ],
+  "collections": []
+}
